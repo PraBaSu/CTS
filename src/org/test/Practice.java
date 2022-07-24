@@ -7,6 +7,9 @@ public class Practice {
 
 		System.out.println("Name: Prathab");
 		
+		System.out.println("Name: Prathab");
+
+		
 	}
 
 }
